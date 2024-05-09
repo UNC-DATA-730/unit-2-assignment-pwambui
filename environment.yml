@@ -12,6 +12,7 @@ dependencies:
   - r-ranger
   - r-islr2
   - r-moderndive
+  - r-palmerpenguins
   - scikit-learn
   - plotnine
   - statsmodels
